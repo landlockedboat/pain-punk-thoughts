@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "supervisor server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wextia/cuddly-pancake/issues"
   },
-  "homepage": "https://github.com/wextia/cuddly-pancake#readme"
+  "homepage": "https://github.com/wextia/cuddly-pancake#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-twitterbot": "^0.2.2"
+  }
 }
