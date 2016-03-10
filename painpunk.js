@@ -9,7 +9,7 @@ var PunkPainBot = new TwitterBot({
   "consumer_key" :
   "gtxRo4j3Fcmcu9Okne28oIep4",
   "access_token" :
-  "708020567778136064-CXfARagXYiaMi5Hc11iJ0Uh87WuqDUH-X4b9js2ZwJBu5XOxBCJ5atidIaraSRvbw0fZMf2",
+  "708020567778136064-CXfARagXYiaMi5Hc11iJ0Uh87WuqDUH",
   "access_token_secret" :
   "lsEAi8qxGaZUbqTxB3D6BhaZszqBtc3I0VIzYWKEdb8dV"
 });
