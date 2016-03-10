@@ -1,4 +1,5 @@
-var server = require("express");
+var express = require('express');
+var server = express();
 var TwitterBot = require("node-twitterbot").TwitterBot
 var WordsDB = require("./database.js").Database
 var server_port = process.env.OPENSHIFT_NODEJS_PORT || 8080
