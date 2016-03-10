@@ -1,0 +1,19 @@
+{
+  "name": "punkthoughts",
+  "version": "1.0.0",
+  "description": "A twitter bot that tweets really punk and depressive shit",
+  "main": "painpunk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wextia/cuddly-pancake.git"
+  },
+  "author": "wextia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wextia/cuddly-pancake/issues"
+  },
+  "homepage": "https://github.com/wextia/cuddly-pancake#readme"
+}
