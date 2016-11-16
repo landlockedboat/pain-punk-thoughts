@@ -1,2 +1,2 @@
-# cuddly-pancake
-painpunk thoughts, silly bot
+# pain-punk-thoughts
+a twitter bot i made :robot: 
